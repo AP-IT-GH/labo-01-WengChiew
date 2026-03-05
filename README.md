@@ -14,4 +14,3 @@
 4. [quote](quote/)
 5. [abbreviation](abbreviation/)
 6. [address](address/)
-
